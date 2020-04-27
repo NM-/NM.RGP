@@ -16,6 +16,6 @@ Now put in what ever you want after the words description:   now you can--
 Scroll to bottom of page to make a commit on what you done
 Then click commit changes.
 Your website should be online...
-CLICK <CODE> TAB above until you see readme, the site, and master all on same page...Then
+CLICK <CODE> TAB above until you see readme, config.yml, and index all on same page...Then
 To check just go to invironment tab above
 Then click view blue tab at end to see site

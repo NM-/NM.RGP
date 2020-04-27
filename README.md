@@ -18,4 +18,5 @@ Then click commit changes.
 Your website should be online...
 CLICK <CODE> TAB above until you see readme, config.yml, and index all on same page...Then
 To check just go to invironment tab above
-Then click view blue tab at end to see site
+Then click view deployment (blue tab at end to see site)
+To go back just click <code> tab at top
